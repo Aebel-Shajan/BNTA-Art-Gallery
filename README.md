@@ -70,3 +70,7 @@ feel free to edit README.md
 5. open new pull request:
    
    [https://github.com/Aebel-Shajan/BNTA-Art-Gallery/pulls](https://github.com/Aebel-Shajan/BNTA-Art-Gallery/pulls)
+
+6. view live demo:
+   
+   [https://bnta-art-gallery.vercel.app](https://bnta-art-gallery.vercel.app)
