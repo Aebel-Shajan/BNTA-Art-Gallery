@@ -28,6 +28,7 @@ Steps:
 
 Links:
 * [Figma mockup](https://www.figma.com/file/veB2rqizriFsJheu8yyqAf/BNTA-ART-GALLERY?type=whiteboard&node-id=0%3A1&t=76Xbd7OZPASVK9WJ-1)
+* [Vercel demo](https://bnta-art-gallery.vercel.app)
 
 feel free to edit README.md
 
