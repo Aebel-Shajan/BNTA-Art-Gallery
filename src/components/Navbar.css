@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cyan;
+    height: 4rem;
+    padding: 0 1rem;
+}
+
+nav {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav > button {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    border: 0;
+    padding: 0 1rem;
+    background-color: transparent;
+}
+
+button:hover {
+    background-color: aquamarine;
+}
