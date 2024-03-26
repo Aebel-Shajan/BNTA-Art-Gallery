@@ -13,7 +13,7 @@ Vibes: chill, no pressure, fun, simple
 Timeline: should be short and simple, hopefully finish before our actual projects loll
 
 Initial idea: 
-* Website wear you can draw/doodle and then submit it.
+* Website where you can draw/doodle and then submit it.
 * Have people vote on the coolness of your drawing.
 * Have a page which displays all the drawings.
 * Have a page where you can draw your art.
@@ -21,10 +21,10 @@ Initial idea:
 
 
 Steps:
-* Wireframe? (Maybe use figma)
+* Wireframe + uml? (figma)
 * create front end (react)
 * create back end (java + spring + boot)
-* deploy using vercel??? (is free)
+* deploy (vercel/netlify/aws???) (must be free)
 
 Links:
 * [Figma mockup](https://www.figma.com/file/veB2rqizriFsJheu8yyqAf/BNTA-ART-GALLERY?type=whiteboard&node-id=0%3A1&t=76Xbd7OZPASVK9WJ-1)
@@ -75,3 +75,27 @@ feel free to edit README.md
 6. view live demo:
    
    [https://bnta-art-gallery.vercel.app](https://bnta-art-gallery.vercel.app)
+
+
+# Tasks
+## Planning
+- [ ] Wireframe website using figma
+- [ ] Draw UML diagrams for a gallery art item
+- [ ] Create list of tasks
+
+## Frontend
+- [ ] Create artwork component
+- [ ] Create Gallery container
+- [ ] Create Doodle container
+- [ ] Research way we can paint in js
+- [ ] have a button to submit your doodle to the gallery
+- [ ] Make it pretty using Css
+<!--[] Fetch json full of artworks from backend (using await) -->
+
+## Backend
+- [ ] Get method which returns a json full of all the artwork
+- [ ] Post method to add a new gallery item to the gallery
+- [ ] Create a database which contains a list of gallery items
+
+## Deployment ?
+- [ ] Research how to connect backend to frontend?
