@@ -90,7 +90,7 @@ feel free to edit README.md
 - [ ] Research way we can paint in js
 - [ ] have a button to submit your doodle to the gallery
 - [ ] Make it pretty using Css
-<!--[] Fetch json full of artworks from backend (using await) -->
+- [ ] Create json file client side and fetch info from that. => Then fetch json full of artworks from backend server (using await)
 
 ## Backend
 - [ ] Get method which returns a json full of all the artwork
@@ -99,3 +99,4 @@ feel free to edit README.md
 
 ## Deployment ?
 - [ ] Research how to connect backend to frontend?
+- [ ] 
