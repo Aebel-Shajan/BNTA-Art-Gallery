@@ -21,13 +21,14 @@ Initial idea:
 
 
 Steps:
-* Wireframe + uml? (figma)
+* Wireframe + uml? (~~figma~~ Excalidraw)
 * create front end (react)
 * create back end (java + spring + boot)
 * deploy (vercel/netlify/aws???) (must be free)
 
 Links:
-* [Figma mockup](https://www.figma.com/file/veB2rqizriFsJheu8yyqAf/BNTA-ART-GALLERY?type=whiteboard&node-id=0%3A1&t=76Xbd7OZPASVK9WJ-1)
+* ~~[Figma mockup](https://www.figma.com/file/veB2rqizriFsJheu8yyqAf/BNTA-ART-GALLERY?type=whiteboard&node-id=0%3A1&t=76Xbd7OZPASVK9WJ-1)~~
+* [Excalidraw Wireframe + UML diagram](https://excalidraw.com/#room=a76858e5d89291febea1,C3bJTO_e75JnvaBKpPSX5g)
 * [Vercel demo](https://bnta-art-gallery.vercel.app)
 
 feel free to edit README.md
