@@ -84,19 +84,22 @@ feel free to edit README.md
 - [ ] Create list of tasks
 
 ## Frontend
-- [ ] Create artwork component
+- [ ] Create Artwork component
+- [ ] Create Artwork List component
 - [ ] Create Gallery container
 - [ ] Create Doodle container
 - [ ] Research way we can paint in js
 - [ ] have a button to submit your doodle to the gallery
 - [ ] Make it pretty using Css
-- [ ] Create json file client side and fetch info from that. => Then fetch json full of artworks from backend server (using await)
+- [ ] Fetch json full of artworks from backend server (using await)
 
 ## Backend
 - [ ] Get method which returns a json full of all the artwork
 - [ ] Post method to add a new gallery item to the gallery
 - [ ] Create a database which contains a list of gallery items
+- [ ] The png of the artwork should be stored in resources/static/images/{image_name}.png : [source](https://stackoverflow.com/questions/37765475/what-is-the-url-that-i-can-use-to-access-to-a-folder-images-in-spring-boot)
 
 ## Deployment ?
 - [ ] Research how to connect backend to frontend?
-- [ ] 
+- [x] Frontend deployment with vercel
+- [ ] Backend deployment with github actions and aws????
