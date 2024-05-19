@@ -10,21 +10,23 @@ Objectives/Aims:
 
 Vibes: chill, no pressure, fun, simple
 
-Timeline: should be short and simple, hopefully finish before our actual projects loll
+Timeline: now until the heat death of the universe
 
 Initial idea: 
 * Website where you can draw/doodle and then submit it.
 * Have people vote on the coolness of your drawing.
 * Have a page which displays all the drawings.
 * Have a page where you can draw your art.
-* Make it so people can vote once depending on their ip/ cookies??
+* Make it so people can vote once depending on their ip/ cookies?? (Use authentication)
 
 
 Steps:
-* Wireframe + uml? (~~figma~~ Excalidraw)
-* create front end (react)
-* create back end (java + spring + boot)
-* deploy (vercel/netlify/aws???) (must be free)
+* Wireframe + uml? (Excalidraw)
+* frontend (react)
+* backend (java + spring + boot)
+* deployment
+     * [Vercel](https://vercel.com/)
+     * [Heroku](https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku)
 
 Links:
 * ~~[Figma mockup](https://www.figma.com/file/veB2rqizriFsJheu8yyqAf/BNTA-ART-GALLERY?type=whiteboard&node-id=0%3A1&t=76Xbd7OZPASVK9WJ-1)~~
@@ -101,6 +103,6 @@ feel free to edit README.md
 - [ ] The png of the artwork should be stored in resources/static/images/{image_name}.png : [source](https://stackoverflow.com/questions/37765475/what-is-the-url-that-i-can-use-to-access-to-a-folder-images-in-spring-boot)
 
 ## Deployment ?
-- [ ] Research how to connect backend to frontend?
+- [ ] Research how to connect backend to frontend -> Use api requests to backend server from frontend.
 - [x] Frontend deployment with vercel
-- [ ] Backend deployment with github actions and aws????
+- [ ] Backend deployment with heroku
